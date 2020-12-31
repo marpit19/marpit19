@@ -18,3 +18,5 @@ I'm a 2nd year student at KIIT University, Bhubaneswar. I love doing coding and 
 <img src = "https://github-readme-stats.vercel.app/api?username=marpit19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&hide=css,java,html&theme=tokyonight">
  </p>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marpit19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
