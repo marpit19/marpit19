@@ -2,6 +2,9 @@
 I'm a 2nd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people. I also love to play piano and guitar!!!
 
 <br />
+
+📝Resume -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Hamdan's Resume" width="35px" src="https://img.favpng.com/15/9/18/portable-network-graphics-logo-vector-graphics-graphic-design-png-favpng-5wCajMHRHaUEErhMSqC4HZ6MQ.jpg" /></a>
+
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/) [![Gmail Badge](https://img.shields.io/badge/-arpit.mohapatra19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Arpit%20Mohapatra-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)](https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)
