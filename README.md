@@ -12,8 +12,8 @@ I'm a 2nd year student at KIIT University, Bhubaneswar. I love doing coding and 
 <br /> <br /><br /><br /><br />
 
 ## :computer: Technologies I Love To Work With
-* Front-end development using  JavaScript, React, Bootstrap
-* Backend development using Node, Express, Mongo DB, Firebase, SQL, Postgresql
+* Front-end development using  JavaScript, Typescript, React, Bootstrap
+* Backend development using Node, Express, Mongo DB, Firebase, SQL, Postgresql, Golang
 * Hybrid App development using Dart, Flutter
 
 ## Tools I work with
