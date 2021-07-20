@@ -1,5 +1,5 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF">
-I'm a 2nd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people. I also love to play piano and guitar!!!
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://u3j7m9h7.rocketcdn.me/wp-content/uploads/2021/06/meme-stocks.jpg" alt="GIF">
+I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people(and blah blah blah) but I love memes ❤️.
 
 <br />
 
