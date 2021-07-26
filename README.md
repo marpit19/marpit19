@@ -7,20 +7,49 @@ I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and 
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/) [![Gmail Badge](https://img.shields.io/badge/-arpit.mohapatra19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Arpit%20Mohapatra-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)](https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/) [![Gmail Badge](https://img.shields.io/badge/-arpit.mohapatra19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Arpit%20Mohapatra-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)](https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/) -->
 
-<br /> <br /><br /><br /><br /><br />
+[![Linkedin Badge](https://img.shields.io/badge/arpitmohapatra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)
+[![Instagram Badge](https://img.shields.io/badge/arpit__mohapatra-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arpit__mohapatra/)](https://instagram.com/arpit__mohapatra)
+[![Medium Badge](https://img.shields.io/badge/@arpitmohapatra19-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arpit-mohapatra19)](https://medium.com/@arpit-mohapatra19)
+[![Gmail Badge](https://img.shields.io/badge/arpit.mohapatra19-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Arpit's_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://arpitmohapatra.vercel.app/)](https://arpitmohapatra.vercel.app/)
 
-## :computer: Technologies I Love To Work With
-* Front-end development using  JavaScript, Typescript, React, Bootstrap
-* Backend development using Node, Express, Mongo DB, Firebase, SQL, Postgresql, Golang
+<br/><br/><br/>
 
-## Tools I work with
- <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg' height='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919853.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/flutter-logo.svg' width='23'/> <img src = 'https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg' width='27'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png' width='30'/> <img src = 'https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png' width='30'/> <img src = 'https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png' width='30'/> <img src = 'https://cdn.auth0.com/blog/logos/nextjs-logo.png' width='30'/> <img src = 'https://images-na.ssl-images-amazon.com/images/I/51Mt-I6%2BEQL._AC_SL1000_.jpg' width='30'/>  <img src = 'https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' height='30'/>
+[![Arpit's github activity graph](https://activity-graph.herokuapp.com/graph?username=marpit19&theme=xcode)](https://git.io/marpit19)
 
-<p align=center>
-<img src = "https://github-readme-stats.vercel.app/api?username=marpit19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&hide=css,java,html&theme=tokyonight">
- </p>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marpit19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+
+## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marpit19&theme=tokyonight" />
+</p>
