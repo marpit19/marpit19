@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://u3j7m9h7.rocketcdn.me/wp-content/uploads/2021/06/meme-stocks.jpg" alt="GIF">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://sportshub.cbsistatic.com/i/2021/08/09/2ee3bfb2-f015-4426-a95b-2d3b46591e8e/doge-meme-sold-as-nft-4-million-dollars-1271901.jpg" alt="GIF">
 I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people(and blah blah blah) but I love memes ❤️.
 
 <br />
