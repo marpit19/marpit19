@@ -50,6 +50,11 @@ I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and 
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&show_icons=true&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marpit19&theme=tokyonight" />
+
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marpit19&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
