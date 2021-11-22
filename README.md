@@ -53,6 +53,6 @@ I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and 
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&show_icons=true&theme=tokyonight" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marpit19&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&theme=tokyonight&count_private=true" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&layout=compact&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&layout=compact&langs_count=8&theme=tokyonight" />
 
 </p>
