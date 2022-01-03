@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/55cNGd6U-MAAAAAC/anime-memes.gif" alt="GIF">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="GIF">
 I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people(and blah blah blah) but I love memes ❤️.
 
 <br />
@@ -6,8 +6,6 @@ I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and 
 📝Resume -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://img.favpng.com/15/9/18/portable-network-graphics-logo-vector-graphics-graphic-design-png-favpng-5wCajMHRHaUEErhMSqC4HZ6MQ.jpg" /></a>
 
 <br />
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/) [![Gmail Badge](https://img.shields.io/badge/-arpit.mohapatra19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Arpit%20Mohapatra-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/)](https://www.youtube.com/channel/UC-HTcLSHfzWM_dch6Di3uWw/) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/arpitmohapatra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)
 [![Instagram Badge](https://img.shields.io/badge/arpit__mohapatra-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arpit__mohapatra/)](https://instagram.com/arpit__mohapatra)
@@ -55,5 +53,4 @@ I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marpit19&theme=tokyonight" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=marpit19&theme=tokyonight&count_private=true" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marpit19&layout=compact&langs_count=8&theme=tokyonight" />
-
 </p>
