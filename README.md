@@ -1,5 +1,5 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="GIF">
-I'm a 3rd year student at KIIT University, Bhubaneswar. I love doing coding and interacting with new people(and blah blah blah) but I love memes ❤️.
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://i.pinimg.com/originals/87/58/12/87581266eb63cf4208d7487f5860b380.gif" alt="GIF">
+<p>I'm a pre-year student at KIIT University, Bhubaneswar. I am into Typescript, and right now into Blockchain and Cryptography!!!!!</p>
 
 <br />
 
