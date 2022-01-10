@@ -1,17 +1,17 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://i.pinimg.com/originals/87/58/12/87581266eb63cf4208d7487f5860b380.gif" alt="GIF">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/nYVVlrUa4zwAAAAC/joji-miller-filthy-frank.gif" alt="GIF">
 <p>I'm a pre-year student at KIIT University, Bhubaneswar. I am into Typescript, and right now into Blockchain and Cryptography!!!!!</p>
 
 <br />
 
-📝Resume -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://img.favpng.com/15/9/18/portable-network-graphics-logo-vector-graphics-graphic-design-png-favpng-5wCajMHRHaUEErhMSqC4HZ6MQ.jpg" /></a>
+**Resume** -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" /></a>
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/arpitmohapatra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)
-[![Instagram Badge](https://img.shields.io/badge/arpit__mohapatra-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arpit__mohapatra/)](https://instagram.com/arpit__mohapatra)
+[![Twitter Badge](https://img.shields.io/badge/Arpit's_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/k1llua2k)
+[![Linkedin Badge](https://img.shields.io/badge/arpit_mohapatra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)](https://www.linkedin.com/in/arpit-mohapatra-b40aa9120/)
 [![Medium Badge](https://img.shields.io/badge/@arpitmohapatra19-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@arpit-mohapatra19)](https://medium.com/@arpit-mohapatra19)
 [![Gmail Badge](https://img.shields.io/badge/arpit.mohapatra19-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Arpit's_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://arpitmohapatra.vercel.app/)](https://arpitmohapatra.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-Arpit's_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://arpit-mohapatra.vercel.app/)](https://arpit-mohapatra.vercel.app/)
 
 <br/><br/><br/>
 
