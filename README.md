@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/iKJvyA8SrncAAAAC/filthy-frank-joji.gif" alt="GIF">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/mN0E6dWU_LgAAAAd/takt-op-destiny-anime.gif" alt="GIF">
 <p>I'm a pre-year student at KIIT University, Bhubaneswar. I am into Typescript, and right now into Blockchain and Cryptography!!!!!</p>
 
 <br />
