@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img width="500" height="320" align='left' src="https://c.tenor.com/LVit_14VFI4AAAAM/heart-meme-heart.gif" alt="GIF">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img  align='left' src="https://pbs.twimg.com/media/FObdqMtXIAAVbaq?format=png&name=small" alt="chad">
 <h1>This guy is brainded</h1>
 
 **Resume** -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" /></a>
