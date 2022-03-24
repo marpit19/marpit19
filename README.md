@@ -13,10 +13,6 @@
 
 <br/>
 
-##
-
-[![Arpit's github activity graph](https://activity-graph.herokuapp.com/graph?username=marpit19&theme=xcode)](https://git.io/marpit19)
-
 ## ⚡ Technologies
 
 ### Language :
