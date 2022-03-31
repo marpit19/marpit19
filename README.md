@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img  align='left' src="https://pbs.twimg.com/media/EBy1JttWsAEZKTD.jpg" alt="chad">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img height="500px" width="500px" align='left' src="https://pbs.twimg.com/media/EBy1JttWsAEZKTD.jpg" alt="chad">
 <h1>This guy is brainded</h1>
 <p>Github Extern at Ockam and DSC KIIT Member. Pre-final year student. And he's 1head. Yeah no cap<p/>
 
@@ -41,7 +41,7 @@
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 ## 📈 Stats
 <p align="center">
