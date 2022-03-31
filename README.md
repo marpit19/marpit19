@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/arpit.mohapatra19-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Arpit's_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://arpit-mohapatra.vercel.app/)](https://arpit-mohapatra.vercel.app/)
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## ⚡ Technologies
 
