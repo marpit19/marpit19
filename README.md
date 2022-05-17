@@ -1,5 +1,5 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img height="500px" width="500px" align='left' src="https://i.pinimg.com/originals/f0/c1/31/f0c13145aef37c36bca75e839ebc9a8f.png" alt="chad">
-<h1>IDK what to write srry</h1>
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img height="500px" width="500px" align='left' src="https://c.tenor.com/UbQBW6aVISQAAAAC/spy-x-family-anya.gif" alt="chad">
+<h1>GG GO NEXT</h1>
 <p>Github Extern at Ockam and DSC KIIT Member. Pre-final year student. And he's 1head. Yeah no cap<p/>
 
 **Resume** -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" /></a>
