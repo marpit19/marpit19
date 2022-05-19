@@ -1,6 +1,6 @@
-<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img height="500px" width="500px" align='left' src="https://c.tenor.com/UbQBW6aVISQAAAAC/spy-x-family-anya.gif" alt="chad">
+<h2> Hi there, I'm Arpit Mohapatra <img src="https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest/scale-to-width-down/400?cb=20160720220827" width="30px"> </h2> <img height="500px" width=auto align='left' src="https://c.tenor.com/UbQBW6aVISQAAAAC/spy-x-family-anya.gif" alt="chad">
 <h1>GG GO NEXT</h1>
-<p>Github Extern at Ockam and DSC KIIT Member. Pre-final year student. And he's 1head. Yeah no cap<p/>
+<p>Github Extern at Ockam and DSC KIIT Member. Pre-final year student. And he's 1head. Yeah no cap</p>
 
 **Resume** -> <a href="https://drive.google.com/drive/folders/1OBEn8o0w-079Cdbs62nF_dSlhwExK-5x?usp=sharing"><img align="center" alt="Arpit's Resume" width="35px" src="https://ssl.gstatic.com/images/branding/product/2x/hh_drive_96dp.png" /></a>
 
@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/arpit.mohapatra19-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arpit.mohapatra19@gmail.com)](mailto:arpit.mohapatra19@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Arpit's_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://arpit-mohapatra.vercel.app/)](https://arpit-mohapatra.vercel.app/)
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 ## ⚡ Technologies
 
