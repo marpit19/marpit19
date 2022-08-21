@@ -4,7 +4,7 @@
 
 I am currently a CSE final year student at [KIIT University](https://kiit.ac.in/) and [Github Extern'22](https://externship.github.in/students/index?search=arpit) [Ockam](https://www.ockam.io/). I do coding, watch anime, eat, sleep and repeat. I'm an open-source enthusiast. My tech stack mostly revolves around javascript frameworks.
 
-<br>
+<br><br>
 
 [![Twitter](https://img.icons8.com/ios-glyphs/25/000000/twitter--v1.png)](https://twitter.com/k1llua2k) Twitter <br>
 [![Mail](https://img.icons8.com/ios-glyphs/25/000000/gmail.png)](mailto:arpit.mohapatra@gmail.com) Mail <br>
