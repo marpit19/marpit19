@@ -1,5 +1,4 @@
 <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh5Ldx7rmpLVv3Os3cFajrMPdbVU54BD5h9Yo_JedrLxOYQiREBGzOcK8oNKZZzUcOdE&usqp=CAU">
-&nbsp;
 
 ### Hi, I am Arpit Mohapatra
 
