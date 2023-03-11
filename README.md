@@ -2,7 +2,7 @@
 
 ### Hi, I am Arpit Mohapatra
 
-I am currently a CSE final year student at [KIIT University](https://kiit.ac.in/) and [Github Extern'22](https://externship.github.in/students/index?search=arpit) [Ockam](https://www.ockam.io/). I do coding, watch anime, eat, sleep and repeat. I'm an open-source enthusiast. My tech stack mostly revolves around javascript frameworks.
+I am currently a CSE final year student. I do coding, watch anime, eat, sleep and repeat. I'm an open-source enthusiast.
 
 <br><br>
 
