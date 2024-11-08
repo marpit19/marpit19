@@ -1,1 +1,3 @@
-![:minami](https://counter.katomegumi.net/get/@:marpit19)
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@:marpit19?theme=booru-koe">
+</div>
